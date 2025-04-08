@@ -30,6 +30,18 @@ body, html {
     }
 }
 
+@media (min-width: 768px) {
+    .custom-curousel {
+     max-height: 600px;
+    }
+    .custom-container{
+        margin: 0 100px;
+    }
+    img{
+        border-radius: 10px;
+    }
+  }
+
 .brand-color {
     color: rgb(255, 144, 63);
 }
